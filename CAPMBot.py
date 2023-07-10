@@ -7,7 +7,7 @@ from typing import List
 from fmclient import Agent, Session, Order, OrderSide, OrderType, Market
 
 # Submission details
-SUBMISSION = {"number": "998092", "name": "Boxiang Fu"}
+SUBMISSION = {"number": , "name": }
 
 
 class CAPMBot(Agent):
